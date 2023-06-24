@@ -1,0 +1,1 @@
+print('Mahindra Singh Dhoni is my favourite sports person.\nI really love is batting skills and wicket keeping skills.\nAnd also his presence of mind while playing the game and leading the team.')

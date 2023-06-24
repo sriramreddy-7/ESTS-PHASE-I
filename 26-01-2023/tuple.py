@@ -1,0 +1,5 @@
+t=(1,2,3,4,5,6,8)
+print(type(t))
+t.count(1)
+print(t.index(2))
+print(t)

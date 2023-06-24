@@ -1,0 +1,8 @@
+num1=input('Enter the Num 1: ')
+num2=input('Enter the Num 2: ')
+num3=input('Enter the Num 3: ')
+num4=input('Enter the Num 4: ')
+num5=input('Enter the Num 5: ')
+sum=float(num1)+float(num2)+float(num3)+float(num4)+float(num5)
+print(type(sum))
+print(int(sum))

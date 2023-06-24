@@ -1,0 +1,18 @@
+s={1,2,20,30,50,45,60}
+p={2,5,9,78,9,2,7}
+print(s|p)
+print(s&p)
+print(s-p)
+print(s.union(p))
+print(s.intersection(p))
+print(s.difference(p))
+print(s.issuperset(p))
+s.add(1.5)
+s.update([5,3,68])
+print(s)
+s.discard(5)
+print(s)
+s.remove(60)
+print(s)
+# s.remove(6000)
+# print(s)
